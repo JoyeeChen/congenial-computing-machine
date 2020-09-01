@@ -1,1 +1,1 @@
-# Homework questions automatic sorter, Python
+# Homework problems automatic sorter, Python

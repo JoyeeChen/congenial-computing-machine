@@ -1,1 +1,1 @@
-# congenial-computing-machine
+# Homework questions automatic sorter, Python
